@@ -1,0 +1,21 @@
+---
+
+
+# Setup for arena
+arena: "Arena"
+nameserver: "§l§cSilhouette"
+
+# Armor for players
+leggings: 309
+boots: 300
+helmet: 298
+chestplate: 307
+
+# Items for players
+items: 
+    - ['267', '0', '1']   
+    - ['261', '0', '1']
+    - ['262', '0', '5']
+    - ['346', '0', '1']
+    - ['322', '0', '6']
+...
